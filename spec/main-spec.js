@@ -39,6 +39,4 @@ describe('main()', () => {
         expect(expected).toEqual(result);
     });   
    
-
-
 });
