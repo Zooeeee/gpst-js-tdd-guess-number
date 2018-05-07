@@ -12,6 +12,6 @@ var main = function main(answer,solution) {
     }
     
     return count_a+"A"+count_b+"B" ;};
-module.exports = {main}
-//module.exports = main;
+//module.exports = {main}
+module.exports = main;
 
